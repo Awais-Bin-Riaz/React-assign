@@ -1,0 +1,28 @@
+body {
+  background-image: url('image/ba.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  color: black;
+  z-index: 1;
+}
+
+#main{
+  border: 1px solid black;
+  margin: 5% 30%;
+  padding:20px;
+  background: rgba(255, 255, 255, 0.476);
+  border-radius: 10px;
+}
+.img{
+  width: 100%;
+  display: flex;
+  align-items: center
+
+}
+.prof{
+  width: 50px
+}
+strong{
+  font-size:35px;
+}

@@ -1,0 +1,32 @@
+[debug] [2021-10-06T20:46:39.099Z] ----------------------------------------------------------------------
+[debug] [2021-10-06T20:46:39.102Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Awais Bin Riaz\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js login
+[debug] [2021-10-06T20:46:39.102Z] CLI Version:   9.16.5
+[debug] [2021-10-06T20:46:39.102Z] Platform:      win32
+[debug] [2021-10-06T20:46:39.102Z] Node Version:  v14.18.0
+[debug] [2021-10-06T20:46:39.103Z] Time:          Thu Oct 07 2021 01:46:39 GMT+0500 (Pakistan Standard Time)
+[debug] [2021-10-06T20:46:39.103Z] ----------------------------------------------------------------------
+[debug] 
+[info] i  Firebase optionally collects CLI usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+ 
+[info] i  To change your data collection preference at any time, run `firebase logout` and log in again. 
+[info] 
+[info] Visit this URL on this device to log in:
+[info] https://accounts.google.com/o/oauth2/auth?client_id=563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com&scope=email%20openid%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloudplatformprojects.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Ffirebase%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform&response_type=code&state=715659489&redirect_uri=http%3A%2F%2Flocalhost%3A9005
+[info] 
+[info] Waiting for authentication...
+[debug] [2021-10-06T20:46:42.274Z] Error: spawn cmd ENOENT
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:274:19)
+    at onErrorNT (internal/child_process.js:469:16)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2021-10-08T08:14:49.375Z] ----------------------------------------------------------------------
+[debug] [2021-10-08T08:14:49.385Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Awais Bin Riaz\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js login
+[debug] [2021-10-08T08:14:49.386Z] CLI Version:   9.16.5
+[debug] [2021-10-08T08:14:49.387Z] Platform:      win32
+[debug] [2021-10-08T08:14:49.387Z] Node Version:  v14.18.0
+[debug] [2021-10-08T08:14:49.390Z] Time:          Fri Oct 08 2021 13:14:49 GMT+0500 (Pakistan Standard Time)
+[debug] [2021-10-08T08:14:49.391Z] ----------------------------------------------------------------------
+[debug] 
+[info] i  Firebase optionally collects CLI usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+ 
